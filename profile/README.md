@@ -1,4 +1,4 @@
-![페플](https://user-images.githubusercontent.com/63862534/207244247-20fb2662-3cf8-4c8a-98f7-b15fe4c1a9b9.jpg)
+![펫플](https://user-images.githubusercontent.com/63862534/207247913-ad9b06f6-c9ae-408e-8544-cd7429f15949.jpg)
 
 <br/>
 <div align="center">펫플은 펫과 함께 하는 사람들이라는 뜻으로, 다양한 반려동물 플랫폼을 개발하는 팀입니다.<br/>
