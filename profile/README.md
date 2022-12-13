@@ -1,4 +1,4 @@
-![펫플](https://user-images.githubusercontent.com/63862534/207252313-d87900a2-a953-49f3-bcb5-5b3216b5751e.jpg)
+![펫플](https://user-images.githubusercontent.com/63862534/207281528-1f49456d-658f-449b-b207-9286e5b86c1e.jpg)
 
 <br/>
 <div align="center">펫플은 펫과 함께 하는 사람들이라는 뜻으로, 다양한 반려동물 플랫폼을 개발하는 팀입니다.<br/>
@@ -7,7 +7,7 @@
 <br/>
 
 # 🥝 kiwi
-
+![logo](https://user-images.githubusercontent.com/63862534/207281534-59b24597-3e88-40f2-aada-0267065f9dea.png)
 ### 🎡 사이트 소개 🎡
 
  - 개와 고양이 모두 펫시팅 가능
